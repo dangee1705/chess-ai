@@ -1,0 +1,3 @@
+[submodule "lib/chess"]
+	path = lib/chess
+	url = https://github.com/holworthy/chess
